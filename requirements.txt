@@ -2,8 +2,9 @@ boto3>=1.9
 typing
 pydantic
 fastapi
+uvicorn[standard]
 requests
 tqdm
-yaml
+pyyaml
 elasticsearch
 confluent-kafka
